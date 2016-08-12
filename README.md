@@ -1,6 +1,6 @@
 ## Overview
 
-This is a long video! But it gaves a great review of the OO concepts that you have learned up until now and presents it in a very holistic way. Watch this video before beginning your final projects. 
+This is a long video! But it gaves a great review of the OO concepts that you have learned up until now and presents it in a very holistic way. 
 
 ## Objectives
 
